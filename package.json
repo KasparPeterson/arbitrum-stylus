@@ -1,0 +1,18 @@
+{
+  "name": "ai-contract",
+  "version": "1.0.0",
+  "description": "![Image](./header.png)",
+  "main": "call_contract.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.9.2"
+  }
+}
